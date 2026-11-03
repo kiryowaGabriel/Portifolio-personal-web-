@@ -5,9 +5,9 @@ document.addEventListener('DOMContentLoaded', () => {
   const typedText = document.querySelector('.typed-text');
   const phrases = [
     'ICT Support Officer',
-    'Systems Specialist',
-    'Tech Enthusiast',
-    'Problem Solver'
+    'End-User Support',
+    'Systems & Data Management',
+    'Virtual Events Coordinator'
   ];
   let phraseIndex = 0;
   let charIndex = 0;
